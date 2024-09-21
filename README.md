@@ -11,7 +11,7 @@
 <p align="left">
 <a href="www.linkedin.com/in/
 abdul-samad22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abdul Samad" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100036123632997&mibextid=ZbWKwL" alt="Abdul Samad " height="30" width="40" /></a>
+<a href="[facebook.com/profile.php?id=61558071621584&mibextid=ZbWKwL](https://www.facebook.com/profile.php?id=100036123632997&mibextid=ZbWKwL)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdul samad" height="30" width="40" /></a>
 <a href="[https://instagram.com/aitzaz_hakro](https://www.instagram.com/sardar_samad__?igsh=M21sd2xkM2xmOHI1)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdul samad" height="30" width="40" /></a>
 
 
